@@ -59,6 +59,7 @@ button:focus {outline:0;}
 	text-align:center;
 	width:33%;
 	float: left;
+	font-size: 1.2em;
 }
 
 .duration{
